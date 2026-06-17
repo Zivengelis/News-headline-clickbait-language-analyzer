@@ -22,3 +22,11 @@ The project uses a two-stage text classification approach:
 - TF-IDF text representation
 - Logistic Regression classification
 - Hierarchical classification approach
+
+
+## Tutorial
+
+- Download python
+- Make sure you have pip installed
+- Run command to download required programs: "pip install pandas numpy scikit-learn"
+- Launch command "python train_model.py"
